@@ -10,4 +10,4 @@ A foundational electronics prototype designed in LibrePCB featuring a battery-po
  
 ## Usage
 
-Download the included '.lppz' file to open and view the schematic directly in LibrePCB.
+Download the included .lppz file to open and view the schematic directly in LibrePCB.
